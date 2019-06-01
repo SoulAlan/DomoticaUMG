@@ -1,2 +1,0 @@
-# DomoticaUMG
-Segun Videotutorial 
